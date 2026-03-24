@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M6 2L3 9H4.5L6.5 22H17.5L19.5 9H21L18 2H6ZM7.5 4H16.5L18 7H6L7.5 4ZM6.2 9H17.8L16.1 20H7.9L6.2 9Z" fill="var(--fill-0, #222222)"/>
+<path d="M6 2L3 9H4.5L6.5 22H17.5L19.5 9H21L18 2H6ZM7.5 4H16.5L18 7H6L7.5 4ZM6.2 9H17.8L16.1 20H7.9L6.2 9Z" fill="url(#paint0_linear_drink)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_drink" x1="3" y1="12" x2="21" y2="12" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2C3E0B"/>
+<stop offset="1" stop-color="#74A41C"/>
+</linearGradient>
+</defs>
+</svg>
